@@ -16,3 +16,6 @@ https://github.com/PacktPublishing/Building-Machine-Learning-Projects-with-Tenso
 
 ## Tutoriales
 
+Neural Network in Python
+
+http://adventuresinmachinelearning.com/neural-networks-tutorial/
